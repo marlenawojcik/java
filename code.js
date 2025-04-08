@@ -27,10 +27,7 @@ function bialeZnaki(string) {
     return string.trim().length === 0;
     }
 
-function walidujNapis(ciag, komunikat) {    
-    var ciag = document.forms["user_data]"]["email"]["kod"]["wiadomosc"].value;
-    if pustoTu(ciag) {
-        alert(komunikat)
+
     }
 }
     
